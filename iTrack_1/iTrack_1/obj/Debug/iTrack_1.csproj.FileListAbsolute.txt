@@ -1,0 +1,451 @@
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\iTrack_1.exe.config
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\iTrack_1.exe
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\iTrack_1.pdb
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.UI.dll
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.UI.GL.dll
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.World.dll
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\OpenTK.dll
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\OpenTK.GLControl.dll
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\ZedGraph.dll
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.UI.xml
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.UI.GL.xml
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.World.xml
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\OpenTK.xml
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\OpenTK.GLControl.xml
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\ZedGraph.xml
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\de\ZedGraph.resources.dll
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\es\ZedGraph.resources.dll
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\fr\ZedGraph.resources.dll
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\hu\ZedGraph.resources.dll
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\it\ZedGraph.resources.dll
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\ja\ZedGraph.resources.dll
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\pt\ZedGraph.resources.dll
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\ru\ZedGraph.resources.dll
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\sk\ZedGraph.resources.dll
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\sv\ZedGraph.resources.dll
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\tr\ZedGraph.resources.dll
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\zh-cn\ZedGraph.resources.dll
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\zh-tw\ZedGraph.resources.dll
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csprojResolveAssemblyReference.cache
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Properties.Resources.resources
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csproj.GenerateResource.Cache
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\obj\Debug\iTrack_1.exe
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\obj\Debug\iTrack_1.pdb
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Registration.resources
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\DirectShowLib.dll
+c:\users\nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\DirectShowLib.pdb
+C:\Users\Nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.Indentification.resources
+C:\Users\Nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\Nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.Tracking.resources
+C:\Users\Nabeel\Documents\Visual Studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Nabeel\Documents\Visual Studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\Nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\Nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\Nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csproj.iTrack_1.exe.config
+C:\Users\Nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.AccTest.resources
+C:\Users\Nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.UserControl1.resources
+C:\Users\Nabeel\Documents\Visual Studio 2015\Projects\FYP\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Test.TestForm_2.resources
+C:\Users\Nabeel\Documents\Visual Studio 2015\Projects\FYP\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.TimeLine.resources
+C:\Users\Nabeel\documents\visual studio 2015\Projects\FYP\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Test.Form1.resources
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\iTrack_1.exe.config
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\obj\Debug\iTrack_1.exe
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\obj\Debug\iTrack_1.pdb
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\iTrack_1.exe
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\iTrack_1.pdb
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\DirectShowLib.dll
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\OpenTK.dll
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\ZedGraph.dll
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\DirectShowLib.pdb
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.World.xml
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\OpenTK.xml
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\ZedGraph.xml
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csprojResolveAssemblyReference.cache
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csproj.iTrack_1.exe.config
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Test.Form1.resources
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Test.TestForm_2.resources
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.TimeLine.resources
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.UserControl1.resources
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.Indentification.resources
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Registration.resources
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Properties.Resources.resources
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.Tracking.resources
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csproj.GenerateResource.Cache
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\obj\Debug\iTrack.Form1.resources
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\obj\Debug\iTrack.UserControls.Camera.resources
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\obj\Debug\iTrack.View.AddCam.resources
+C:\Users\Arslan\Desktop\FYP\Combine\iTrack_1\iTrack_1\obj\Debug\iTrack.View.RemoveCam.resources
+F:\iTrack_1\iTrack_1\bin\Debug\iTrack_1.exe.config
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack_1.exe
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack_1.pdb
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csprojResolveAssemblyReference.cache
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csproj.iTrack_1.exe.config
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack.Form1.resources
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Test.Form1.resources
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Test.TestForm_2.resources
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack.UserControls.Camera.resources
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.TimeLine.resources
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.UserControl1.resources
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Properties.Resources.resources
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack.View.AddCam.resources
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.Indentification.resources
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Registration.resources
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack.View.RemoveCam.resources
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.Tracking.resources
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csproj.GenerateResource.Cache
+F:\iTrack_1\iTrack_1\bin\Debug\iTrack_1.exe
+F:\iTrack_1\iTrack_1\bin\Debug\iTrack_1.pdb
+F:\iTrack_1\iTrack_1\bin\Debug\DirectShowLib.dll
+F:\iTrack_1\iTrack_1\bin\Debug\OpenTK.dll
+F:\iTrack_1\iTrack_1\bin\Debug\OpenTK.GLControl.dll
+F:\iTrack_1\iTrack_1\bin\Debug\ZedGraph.dll
+F:\iTrack_1\iTrack_1\bin\Debug\DirectShowLib.pdb
+F:\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.UI.xml
+F:\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.UI.GL.xml
+F:\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.World.xml
+F:\iTrack_1\iTrack_1\bin\Debug\OpenTK.xml
+F:\iTrack_1\iTrack_1\bin\Debug\OpenTK.GLControl.xml
+F:\iTrack_1\iTrack_1\bin\Debug\ZedGraph.xml
+F:\iTrack_1\iTrack_1\bin\Debug\de\ZedGraph.resources.dll
+F:\iTrack_1\iTrack_1\bin\Debug\es\ZedGraph.resources.dll
+F:\iTrack_1\iTrack_1\bin\Debug\fr\ZedGraph.resources.dll
+F:\iTrack_1\iTrack_1\bin\Debug\hu\ZedGraph.resources.dll
+F:\iTrack_1\iTrack_1\bin\Debug\it\ZedGraph.resources.dll
+F:\iTrack_1\iTrack_1\bin\Debug\ja\ZedGraph.resources.dll
+F:\iTrack_1\iTrack_1\bin\Debug\pt\ZedGraph.resources.dll
+F:\iTrack_1\iTrack_1\bin\Debug\ru\ZedGraph.resources.dll
+F:\iTrack_1\iTrack_1\bin\Debug\sk\ZedGraph.resources.dll
+F:\iTrack_1\iTrack_1\bin\Debug\sv\ZedGraph.resources.dll
+F:\iTrack_1\iTrack_1\bin\Debug\tr\ZedGraph.resources.dll
+F:\iTrack_1\iTrack_1\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\iTrack_1\iTrack_1\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.PersonEntry.resources
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack_1.frontend.resources
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Map.resources
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.VideoPallet.resources
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.ViewRecordedVideos.resources
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.BodyFeatureView.resources
+F:\iTrack_1\iTrack_1\obj\Debug\Interop.WMPLib.dll
+F:\iTrack_1\iTrack_1\obj\Debug\AxInterop.WMPLib.dll
+F:\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csproj.ResolveComReference.cache
+F:\iTrack_1\iTrack_1\bin\Debug\Interop.WMPLib.dll
+F:\iTrack_1\iTrack_1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\iTrack_1.exe.config
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\iTrack_1.exe
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\iTrack_1.pdb
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\DirectShowLib.dll
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\OpenTK.dll
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\ZedGraph.dll
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\DirectShowLib.pdb
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.World.xml
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\OpenTK.xml
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\ZedGraph.xml
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csprojResolveAssemblyReference.cache
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csproj.iTrack_1.exe.config
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csproj.ResolveComReference.cache
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack.Form1.resources
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.frontend.resources
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Map.resources
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Test.Form1.resources
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Test.TestForm_2.resources
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.BodyFeatureView.resources
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack.UserControls.Camera.resources
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.PersonEntry.resources
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.TimeLine.resources
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.UserControl1.resources
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Properties.Resources.resources
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.VideoPallet.resources
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack.View.AddCam.resources
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.Indentification.resources
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Registration.resources
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack.View.RemoveCam.resources
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.Tracking.resources
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.ViewRecordedVideos.resources
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csproj.GenerateResource.Cache
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.exe
+C:\Users\Arslan\Desktop\FYP\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.pdb
+F:\Final\iTrack_1\iTrack_1\bin\Debug\iTrack_1.exe.config
+F:\Final\iTrack_1\iTrack_1\obj\Debug\Interop.WMPLib.dll
+F:\Final\iTrack_1\iTrack_1\obj\Debug\AxInterop.WMPLib.dll
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csproj.ResolveComReference.cache
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.exe
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.pdb
+F:\Final\iTrack_1\iTrack_1\bin\Debug\iTrack_1.exe
+F:\Final\iTrack_1\iTrack_1\bin\Debug\iTrack_1.pdb
+F:\Final\iTrack_1\iTrack_1\bin\Debug\DirectShowLib.dll
+F:\Final\iTrack_1\iTrack_1\bin\Debug\OpenTK.dll
+F:\Final\iTrack_1\iTrack_1\bin\Debug\OpenTK.GLControl.dll
+F:\Final\iTrack_1\iTrack_1\bin\Debug\ZedGraph.dll
+F:\Final\iTrack_1\iTrack_1\bin\Debug\DirectShowLib.pdb
+F:\Final\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.UI.xml
+F:\Final\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.UI.GL.xml
+F:\Final\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.World.xml
+F:\Final\iTrack_1\iTrack_1\bin\Debug\OpenTK.xml
+F:\Final\iTrack_1\iTrack_1\bin\Debug\OpenTK.GLControl.xml
+F:\Final\iTrack_1\iTrack_1\bin\Debug\ZedGraph.xml
+F:\Final\iTrack_1\iTrack_1\bin\Debug\de\ZedGraph.resources.dll
+F:\Final\iTrack_1\iTrack_1\bin\Debug\es\ZedGraph.resources.dll
+F:\Final\iTrack_1\iTrack_1\bin\Debug\fr\ZedGraph.resources.dll
+F:\Final\iTrack_1\iTrack_1\bin\Debug\hu\ZedGraph.resources.dll
+F:\Final\iTrack_1\iTrack_1\bin\Debug\it\ZedGraph.resources.dll
+F:\Final\iTrack_1\iTrack_1\bin\Debug\ja\ZedGraph.resources.dll
+F:\Final\iTrack_1\iTrack_1\bin\Debug\pt\ZedGraph.resources.dll
+F:\Final\iTrack_1\iTrack_1\bin\Debug\ru\ZedGraph.resources.dll
+F:\Final\iTrack_1\iTrack_1\bin\Debug\sk\ZedGraph.resources.dll
+F:\Final\iTrack_1\iTrack_1\bin\Debug\sv\ZedGraph.resources.dll
+F:\Final\iTrack_1\iTrack_1\bin\Debug\tr\ZedGraph.resources.dll
+F:\Final\iTrack_1\iTrack_1\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Final\iTrack_1\iTrack_1\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Final\iTrack_1\iTrack_1\bin\Debug\Interop.WMPLib.dll
+F:\Final\iTrack_1\iTrack_1\bin\Debug\AxInterop.WMPLib.dll
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csprojResolveAssemblyReference.cache
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csproj.iTrack_1.exe.config
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack.Form1.resources
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.frontend.resources
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Map.resources
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Test.Form1.resources
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Test.TestForm_2.resources
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.BodyFeatureView.resources
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack.UserControls.Camera.resources
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.PersonEntry.resources
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.TimeLine.resources
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.UserControl1.resources
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Properties.Resources.resources
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.VideoPallet.resources
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack.View.AddCam.resources
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.Indentification.resources
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Registration.resources
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack.View.RemoveCam.resources
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.Tracking.resources
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.ViewRecordedVideos.resources
+F:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csproj.GenerateResource.Cache
+C:\Final\iTrack_1\iTrack_1\bin\Debug\iTrack_1.exe
+C:\Final\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.UI.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.World.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\ZedGraph.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\Interop.WMPLib.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\iTrack_1.exe.config
+C:\Final\iTrack_1\iTrack_1\bin\Debug\DirectShowLib.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\OpenTK.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\OpenTK.GLControl.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\DirectShowLib.pdb
+C:\Final\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.UI.xml
+C:\Final\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Final\iTrack_1\iTrack_1\bin\Debug\Emgu.CV.World.xml
+C:\Final\iTrack_1\iTrack_1\bin\Debug\OpenTK.xml
+C:\Final\iTrack_1\iTrack_1\bin\Debug\OpenTK.GLControl.xml
+C:\Final\iTrack_1\iTrack_1\bin\Debug\ZedGraph.xml
+C:\Final\iTrack_1\iTrack_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Final\iTrack_1\iTrack_1\bin\Debug\de\ZedGraph.resources.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\es\ZedGraph.resources.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\it\ZedGraph.resources.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Final\iTrack_1\iTrack_1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csproj.iTrack_1.exe.config
+C:\Final\iTrack_1\iTrack_1\obj\Debug\Interop.WMPLib.dll
+C:\Final\iTrack_1\iTrack_1\obj\Debug\AxInterop.WMPLib.dll
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csproj.ResolveComReference.cache
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack.Form1.resources
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.frontend.resources
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Map.resources
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Test.Form1.resources
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Test.TestForm_2.resources
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.BodyFeatureView.resources
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack.UserControls.Camera.resources
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.PersonEntry.resources
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.TimeLine.resources
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.UserControl1.resources
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Properties.Resources.resources
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.VideoPallet.resources
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack.View.AddCam.resources
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.Indentification.resources
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Registration.resources
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack.View.RemoveCam.resources
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.Tracking.resources
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.ViewRecordedVideos.resources
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csproj.GenerateResource.Cache
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.exe
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.pdb
+C:\Final\iTrack_1\iTrack_1\bin\Debug\iTrack_1.pdb
+C:\Final\iTrack_1\iTrack_1\bin\Debug\AxInterop.WMPLib.dll
+C:\Final\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csprojResolveAssemblyReference.cache
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\iTrack_1.exe.config
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\Interop.WMPLib.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\AxInterop.WMPLib.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csproj.ResolveComReference.cache
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack_1.exe
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack_1.pdb
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\iTrack_1.exe
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\iTrack_1.pdb
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\DirectShowLib.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\OpenTK.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\OpenTK.GLControl.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\ZedGraph.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\DirectShowLib.pdb
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\OpenTK.xml
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\OpenTK.GLControl.xml
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\ZedGraph.xml
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\de\ZedGraph.resources.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\es\ZedGraph.resources.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\fr\ZedGraph.resources.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\hu\ZedGraph.resources.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\it\ZedGraph.resources.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\ja\ZedGraph.resources.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\pt\ZedGraph.resources.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\ru\ZedGraph.resources.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\sk\ZedGraph.resources.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\sv\ZedGraph.resources.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\tr\ZedGraph.resources.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\Interop.WMPLib.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\AxInterop.WMPLib.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csproj.iTrack_1.exe.config
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack.Form1.resources
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack_1.frontend.resources
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Map.resources
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Test.Form1.resources
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Test.TestForm_2.resources
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.BodyFeatureView.resources
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack.UserControls.Camera.resources
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.PersonEntry.resources
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.TimeLine.resources
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.UserControl1.resources
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Properties.Resources.resources
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.VideoPallet.resources
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack.View.AddCam.resources
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.Indentification.resources
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Registration.resources
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack.View.RemoveCam.resources
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.Tracking.resources
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.ViewRecordedVideos.resources
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csproj.GenerateResource.Cache
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.CameraVideoFeed.resources
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.CamerafromMap.resources
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\CircularProgressBar.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\MetroFramework.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\MetroFramework.Fonts.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\WinFormAnimation.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\CircularProgressBar.xml
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\WinFormAnimation.xml
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\bin\Debug\SplashScreen.dll
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csprojResolveAssemblyReference.cache
+E:\8th Semester\FYP-2\iTrack_01\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.OdNeighbour.resources
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\iTrack_1.exe.config
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csproj.ResolveComReference.cache
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack_1.exe
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack_1.pdb
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\iTrack_1.exe
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\iTrack_1.pdb
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\CircularProgressBar.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\DirectShowLib.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\MetroFramework.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\OpenTK.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\SplashScreen.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\WinFormAnimation.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\ZedGraph.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\CircularProgressBar.xml
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\DirectShowLib.pdb
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\OpenTK.xml
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\WinFormAnimation.xml
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\ZedGraph.xml
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csprojResolveAssemblyReference.cache
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csproj.iTrack_1.exe.config
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack.Form1.resources
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack_1.frontend.resources
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Map.resources
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Test.Form1.resources
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Test.TestForm_2.resources
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.BodyFeatureView.resources
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack.UserControls.Camera.resources
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.PersonEntry.resources
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.TimeLine.resources
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.UserControl1.resources
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Properties.Resources.resources
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack_1.UserControls.VideoPallet.resources
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack.View.AddCam.resources
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.CamerafromMap.resources
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.CameraVideoFeed.resources
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.Indentification.resources
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.OdNeighbour.resources
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack_1.Registration.resources
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack.View.RemoveCam.resources
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.Tracking.resources
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack_1.View.ViewRecordedVideos.resources
+C:\Users\Uzair Tahir\Desktop\iTrack_1\iTrack_1\obj\Debug\iTrack_1.csproj.GenerateResource.Cache
